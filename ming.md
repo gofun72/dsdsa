@@ -1,5 +1,6 @@
 <div align=center>
 <img src="images/banner.jpg" width=880>
+ 翻墙必看 视频 http://61.228.116.242
 </div>
 <p></p>
 <div align=center>
