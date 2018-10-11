@@ -1,6 +1,7 @@
 <div align=center>
 <img src="images/ok.jpg" width=880>
-</div>
+<h2><b>翻墙必看 视频 http://61.228.116.242 </h2></b>
+ </div>
 <hr>
 
 
@@ -1113,11 +1114,6 @@
 撰稿：林宇 剪辑：明玉
 
 <hr>
-
-<div align=center>
-<img src="images/aa0903-s.png" width=880>
-</div>
-<h3 align=center>翻墙必看 视频 http://220.141.123.215 </h3>
 </p>
 <div align=center>
 <img src="images/img3b7901e1.jpg" width=880>
