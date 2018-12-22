@@ -6,9 +6,9 @@
 
 <table>
 <tr>
-  <td  width=300,align="center">12/24/2018</td>
- <td  width=280>星期一</td>
- <td  width=300>首播	20:00</td>
+  <td width=300><div align="center">12/24/2018</div></td>
+ <td width=280>星期一</td>
+ <td width=300>首播	20:00</td>
 </tr>
 
 
