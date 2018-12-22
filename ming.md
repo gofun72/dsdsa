@@ -3,11 +3,22 @@
 <div align="center"><img src="images/3636.png" width=880>
  
 <h3> 大陆播出时间：</h3>
-12/24/2018	Monday	首播	20:00<br>
-12/25/2018	Tuesday	重播	10:00<br>
-12/25/2018	Tuesday	重播	17:00<br>
-12/31/2018	Monday	首播	13:00<br>
-12/31/2018	Monday	重播	20:30
+
+<table>
+<tr>
+ <td width=300>12/24/2018</td>
+ <td width=280>星期一</td>
+ <td width=300>首播	20:00</td>
+</tr>
+
+
+
+</table>
+12/24/2018	星期一	首播	20:00<br>
+12/25/2018	星期二	重播	10:00<br>
+12/25/2018	星期二	重播	17:00<br>
+12/31/2018	星期一	首播	13:00<br>
+12/31/2018	星期一	重播	20:30
 <h3>中国大陆必须透过翻墙收看 翻墙下载 https://git.io/dici</h3></div>
 </p>
 <div align=center>
