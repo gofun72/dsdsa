@@ -1,6 +1,16 @@
-<div align=center>
-<img src="images/3636.png" width=880>
 
+
+<div align="center"><img src="images/3636.png" width=880>
+ 【大纪元2018年12月21日讯】圣诞及新年期间，即12月24日（周一）到1月1日（周二），新唐人电视台将独家播出“2017神韵艺术团交响乐团音乐会”，分别在大陆、美东、休斯顿、美西、欧洲等频道播放。同时，新唐人网站（www.ntdtv.com）首页直播窗口和Roku也同步播放。</p>
+
+神韵交响乐是神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪，让您踏上五千年的音乐之旅。</p>
+<h3> 大陆播出时间：</h3>
+12/24/2018	Monday	首播	20:00<br>
+12/25/2018	Tuesday	重播	10:00<br>
+12/25/2018	Tuesday	重播	17:00<br>
+12/31/2018	Monday	首播	13:00<br>
+12/31/2018	Monday	重播	20:30
+<h3>中国大陆必须透过翻墙收看 翻墙下载 https://git.io/dici</h3></div>
 
 <div align=center>
 <img src="images/banner.jpg" width=880>
