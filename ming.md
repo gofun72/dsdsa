@@ -7,20 +7,41 @@
 <table>
 <tr>
   <td width=300><div align="center">12/24/2018</div></td>
- <td width=280>星期一</td>
- <td width=300>首播	20:00</td>
+ <td width=280><div align="center">星期一</div></td>
+ <td width=300><div align="center">首播	20:00</div></td>
 </tr>
 
+<tr>
+  <td width=300><div align="center">12/25/2018</div></td>
+ <td width=280><div align="center">星期二</div></td>
+ <td width=300><div align="center">重播	10:00</div></td>
+</tr>
 
+<tr>
+  <td width=300><div align="center">12/25/2018</div></td>
+ <td width=280><div align="center">星期二</div></td>
+ <td width=300><div align="center">重播	17:00</div></td>
+</tr>
+
+<tr>
+  <td width=300><div align="center">12/31/2018</div></td>
+ <td width=280><div align="center">星期一</div></td>
+ <td width=300><div align="center">首播	13:00</div></td>
+</tr>
+
+<tr>
+  <td width=300><div align="center">12/31/2018</div></td>
+ <td width=280><div align="center">星期一</div></td>
+ <td width=300><div align="center">重播	20:30</div></td>
+</tr>
 
 </table>
-12/24/2018	星期一	首播	20:00<br>
-12/25/2018	星期二	重播	10:00<br>
-12/25/2018	星期二	重播	17:00<br>
-12/31/2018	星期一	首播	13:00<br>
-12/31/2018	星期一	重播	20:30
+
 <h3>中国大陆必须透过翻墙收看 翻墙下载 https://git.io/dici</h3></div>
 </p>
+<div align=center>
+<img src="images/b_illust_91_0M.png" width=880></div>
+
 <div align=center>
 <img src="images/banner.jpg" width=880>
  <h2><b>翻墙必看 视频 http://61.228.117.125 </h2></b>
