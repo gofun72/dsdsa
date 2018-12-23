@@ -42,9 +42,11 @@
 <div align=center>
 <img src="images/b_illust_91_0M.png" width=880></div>
 </p>
+
+
 <div align=center>
 <img src="images/banner.jpg" width=880>
- <h2><b>翻墙必看 视频 http://61.228.117.125 </h2></b>
+ <h2><b>翻墙必看 视频 http://220.141.121.162 </h2></b>
 </div>
 <p></p>
 <div align=center>
