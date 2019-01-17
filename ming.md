@@ -3,7 +3,7 @@
 
 <div align=center>
 <img src="images/banner.jpg" width=880>
- <h2><b>翻墙必看 视频 http://220.141.124.111 </h2></b>
+ <h2><b>翻墙必看 视频 http://36.227.100.96 </h2></b>
 </div>
 <p></p>
 <div align=center>
