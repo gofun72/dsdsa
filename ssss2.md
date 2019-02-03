@@ -2,7 +2,15 @@
 <div align=center>
 <img src="images/ok.jpg" width=880>
 <h2><b>翻墙必看 视频 http://220.141.120.7 </h2></b>
- </div>
+</div>
+
+<table>
+  <tr>
+   <td><h3><a href="https://git.io/sss">
+	   好消息,新唐人中国新年期间独家播出"2019全球华人新年晚会", 敬请进入此网站 https://git.io/sss 查询观看时间。</h3></a>
+</td>
+  </tr>
+  </table>
 <hr>
 
 
