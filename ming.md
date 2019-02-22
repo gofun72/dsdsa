@@ -1,10 +1,7 @@
-<div align="center"><IMG SRC="images/112--23.png" width=880>
-<h3><b>敬请进入 https://git.io/sss 查询观看</h3></b></div>
-<br/>
 
 <div align=center>
 <img src="images/banner.jpg" width=880>
- <h2><b>翻墙必看 视频 http://111.241.93.196 </h2></b>
+ <h2><b>翻墙必看 视频 http://220.141.133.2 </h2></b>
 </div>
 <p></p>
 <div align=center>
