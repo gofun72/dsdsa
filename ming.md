@@ -1,7 +1,7 @@
 
 <div align=center>
 <img src="images/banner.jpg" width=880>
- <h2><b>翻墙必看 视频 http://114.37.16.63 </h2></b>
+ <h2><b>翻墙必看 视频 http://118.161.49.82 </h2></b>
 </div>
 <p></p>
 <div align=center>
