@@ -1,7 +1,7 @@
 
 <div align=center>
 <img src="images/ok.jpg" width=880>
-<h2><b>翻墙必看 视频 http://114.37.17.145 </h2></b>
+<h2><b>翻墙必看 视频 http://111.240.72.115 </h2></b>
 </div>
 
 
