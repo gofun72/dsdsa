@@ -428,8 +428,8 @@
 <p></p>
 <table>
 <tr>
-<td width=500 ><a href="github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true" target="_blank">【突破封锁看世界】</a></td>
-<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/s-fangqian.epub?raw=true">(翻墙软件手册).下载</a></td></tr>
+<td width=500 ><a href="github.com/sodore/dsds/blob/master/book/s-fangqian (2).epub?raw=true" target="_blank">【突破封锁看世界】</a></td>
+<td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/s-fangqian (2).epub?raw=true">(翻墙软件手册).下载</a></td></tr>
 
 <tr>
 <td width=500><a href="github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
@@ -520,7 +520,7 @@
  
 <a href="https://"> <h2 align=center>◆ 退党、退团、退队（三退）方法 </a></h2></p>
 ■ 三退（指退出中共党、团、队）声明，是发表在全球最大的华人媒体大纪元的退党网站上。　</p>
-■ 截至2018年8月为止，已有超过3亿一千多万中国同胞声明三退，为自己选择了平安。您可选以下任一种方法声明三退：　　</p>
+■ 截至2018年8月为止，已有超过3亿二千多万中国同胞声明三退，为自己选择了平安。您可选以下任一种方法声明三退：　　</p>
  
 ◆  可使用真名、化名、小名（三退） <br>
 ◆  用海外邮箱发表声明tuidang@epochtimes.com <br>
@@ -529,7 +529,7 @@
 ◆  退党电话：001-416-361-9895或001-888-892-8757  <br>
 ◆  退党传真：001-510-372-0176或001-201-625-6301 <br>
 ◆  可利用出国的机会，在国外将三退声明通过上述方式发表或交给退党服务中心义工。  <br>
-◆  三退义工(思榕)帮你退 qq: 1994474826  </p>
+◆  如何“三退”，请点击退党网站 https://git.io/tv123  </p>
 █ 提示：由于恐惧，中共对退党热线做了手脚，如从中国拨打接通后听到：“这是空号。”请别上当，不挂电话很快就能接通。
 
 </td></tr>
