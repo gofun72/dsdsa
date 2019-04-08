@@ -428,11 +428,11 @@
 <p></p>
 <table>
 <tr>
-<td width=500 ><a href="github.com/sodore/dsds/blob/master/book/s-fangqian (2).epub?raw=true" target="_blank">【突破封锁看世界】</a></td>
+<td width=500 ><a href="https://github.com/sodore/dsds/blob/master/book/s-fangqian (2).epub?raw=true" target="_blank">【突破封锁看世界】</a></td>
 <td width=380 ><a href="https://github.com/sodore/dsds/blob/master/book/s-fangqian (2).epub?raw=true">(翻墙软件手册).下载</a></td></tr>
 
 <tr>
-<td width=500><a href="github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
+<td width=500><a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true" target="_blank">【《共产主义的终极目的-中国篇》】</a></td>
 <td width=380><a href="https://github.com/sodore/dsds/blob/master/book/goalmp3Npr.epub?raw=true"> (音频全书-实体镶崁) .下载</a></td></tr>
 
 <tr>
