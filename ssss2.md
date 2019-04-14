@@ -6,7 +6,7 @@
 
 
 <div align=center>
-<img src="images/2019-04-13_145013.jpg" width=880><a href="https://github.com/sodore/dsdsa/blob/master/video/video_720ps.mp4?raw=true"></a></div></p>   
+<a href="https://github.com/sodore/dsdsa/blob/master/video/video_720ps.mp4?raw=true"><img src="images/2019-04-13_145013.jpg" width=880></a></div></p>   
 
 <h3 align=center><a href="https://github.com/sodore/dsdsa/blob/master/video/video_720ps.mp4?raw=true">► 点击下载视频» 18年前天安门那场大戏 为“秘密群体灭绝”开道 .mp4 </a></h3>
 
