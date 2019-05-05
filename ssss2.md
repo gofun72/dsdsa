@@ -1,7 +1,7 @@
 
 <div align=center>
 <img src="images/2018-06-29_21475-1.jpg" width=880>
-<h2><b>翻墙必看 视频 http://118.161.50.218 </h2></b>
+<h2><b>翻墙必看 视频 http://114.37.68.227 </h2></b>
 </div>
 
 
